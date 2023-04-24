@@ -1,0 +1,29 @@
+.bg1{
+    background-image: url(fon2.jpg);
+}
+.h1{
+    color: rgb(0, 6, 36);
+}
+.img1{
+    width: 320px;
+    height: 200px;
+    float: left;
+}
+.layer2{
+    float: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    color:rgb(0, 6, 36);
+}
+.img2{
+    width: 320px;
+    height: 200px;
+    float: left;
+
+}
+.layer3{
+    float: right;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: medium;
+    color:rgb(0, 6, 36);
+}
