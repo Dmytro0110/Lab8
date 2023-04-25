@@ -1,0 +1,69 @@
+.bg{
+    background-image: url(flowers1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.h1{
+    color: rgb(104, 0, 0);
+    text-align: center;
+    font-size: 35pt;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.img1{
+    width: 200px;
+    height: 120px;
+    border-radius: 10px;
+    float: left;
+}
+.p1{
+    color: rgb(0, 0, 0);
+    text-align: justify;
+    font-size: 14pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+.h2{
+    color: rgb(65, 2, 124);
+    font-size: 20pt;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.img2{
+    width: 200px;
+    height: 120px;
+    border-radius: 10px;
+    float: left;
+}
+.p2{
+    color: rgb(0, 0, 0);
+    text-align: justify;
+    font-size: 14pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic; 
+}
+.h3{
+    color: rgb(65, 2, 124);
+    font-size: 20pt;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.img3{
+    width: 200px;
+    height: 120px;
+    border-radius: 10px;
+    float: left;
+}
+.p3{
+    color: rgb(0, 0, 0);
+    text-align: justify;
+    font-size: 14pt;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic; 
+}
+.h4{
+    color: rgb(65, 2, 124);
+    font-size: 20pt;
+    font-weight: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
